@@ -1,0 +1,1 @@
+"""Vision Mouse UI subpackage."""
